@@ -1,1 +1,1 @@
-This is the project for my github home page
+This is the project for my github home page.
